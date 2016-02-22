@@ -1,0 +1,71 @@
+{
+	"Beats": {
+
+      "b_a" : [4, 0, 3, 0, 1, 0, 8, 8, 0, 0, 3, 0, 2, 0, 0, 0, 4, 5, 3, 0, 2, 0, 5, 5, 0, 0, 3, 0, 6, 0, 0, 0],
+      "b_a2" : [7, 0, 0, 0, 2, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 7, 0, 5, 0, 5, 0, 0, 0, 0, 0, 4, 0, 2, 0, 0, 0],
+      "f_c" : 100,
+      "r_s" : 30,
+      "r_o" : true,
+      "c_s" : 30,
+      "FX": {
+        "pi" : [0, 0, 68, 0, 0, 60, 0, -94, 0],
+        "g" : [0, 74, 0, 0, 2, 67, 79, 88, 0],
+        "c" : [0,0,0,0,0,0,0,0,0],
+        "pa" : [0,0,0,0,0,0,0,0,0],
+        "d_f" : [0,0,0,0,0,0,0,0,0],
+        "d_t" : [0,0,0,0,0,0,0,0,0]
+      },
+      "is_a_pi" : [false, false, false, false, false, false, false, true, false], 
+      "is_a_pa" : [false, false, false, false, false, false, false, false, false], 
+      "is_a_f" : [false, false, false, false, false, false, false, false, false], 
+
+      "r_d_s" : 0,
+      "f_d_s" : 0,
+      "c_d_s" : 0,
+
+      "bpm" : 220,
+      "mU" : ["http://www.freesound.org/data/previews/213/213988_3635427-hq.mp3",false,false,false,false,false,"http://www.freesound.org/data/previews/213/213978_3635427-hq.mp3",false],
+      "muN" : ["coin fall 3","snare","hihat","kick808","bells","jawharp","coin clatter 4","clave"],
+
+      "m":-16
+
+    },
+
+    "Synth": {
+
+      "s_a" : [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0],
+      "f_c" : 20,
+      "r_s" : 30,
+      "r_o" : true,
+      "s_s" : 30,
+
+      "FX": {
+        "l1" : 89,
+        "l2" : 84,
+        "ah1" : 60,
+        "ah2" : 63,
+        "ad1" : 6,
+        "ad2" : 41,
+        "o1w" : 71,
+        "o1f" : 61,
+        "o2w" : 0,
+        "o2f" : 0
+      },
+
+      "MOD": {
+        "lfo_s" : 1,
+        "adsr_s" : 1,
+        "ah_s" : 1,
+        "osc1_s" : 4,
+        "osc2_s" : 4,
+        "ah": [5,10,0]
+      },
+
+      "sO" : [0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+
+      "r_d_s" : 0,
+      "s_d_s" : 0
+
+    }
+
+}
