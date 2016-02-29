@@ -24,7 +24,7 @@
       "c_d_s" : 0,
 
       "bpm" : 220,
-      "mU" : ["http://www.freesound.org/data/previews/213/213988_3635427-hq.mp3",false,false,false,false,false,"http://www.freesound.org/data/previews/213/213978_3635427-hq.mp3",false],
+      "mU" : ["https://www.freesound.org/data/previews/213/213988_3635427-hq.mp3",false,false,false,false,false,"https://www.freesound.org/data/previews/213/213978_3635427-hq.mp3",false],
       "muN" : ["coin fall 3","snare","hihat","kick808","bells","jawharp","coin clatter 4","clave"],
 
       "m":-16
