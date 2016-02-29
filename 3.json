@@ -24,7 +24,7 @@
       "c_d_s" : 0,
 
       "bpm" : 290,
-      "mU" : [false,"http://www.freesound.org/data/previews/164/164612_2982740-hq.mp3",false,"http://www.freesound.org/data/previews/262/262313_1844073-hq.mp3",false,false,false,false],
+      "mU" : [false,"https://www.freesound.org/data/previews/164/164612_2982740-hq.mp3",false,"https://www.freesound.org/data/previews/262/262313_1844073-hq.mp3",false,false,false,false],
       "muN" : ["kick","hello","hihat","Cat Meow2","bells","jawharp","clap","clave"],
 
       "m":-50
